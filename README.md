@@ -1,4 +1,5 @@
 # alexandrschebetovskiy.github.io
 
 
-[SmallApp](https://alexandrschebetovskiy.github.io/SmallApp/)
+[SmallApp](alexandrschebetovskiy.github.io/SmallApp/)
+[Pulse](alexandrschebetovskiy.github.io/Pulse/)
